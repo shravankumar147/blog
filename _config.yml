@@ -1,0 +1,29 @@
+title: Shravan Kumar   
+description: My Personal Blog
+author: Shravan Kumar
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/shravankumar147
+about: Research Scholar
+
+baseurl: "https://shravankumar147.github.io/blog"
+url: "https://shravankumar147.github.io/blog"
+
+allowsearch: true
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: shravankumar147
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
+encoding: utf-8

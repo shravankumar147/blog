@@ -1,12 +1,12 @@
 title: Shravan Kumar   
 description: My Personal Blog
 author: Shravan Kumar
-logo: https://pbs.twimg.com/profile_images/819772462149709826/4kUdnyNk_400x400.jpg
+logo: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 github: https://github.com/shravankumar147
 about: Research Scholar
 
-baseurl: "https://shravankumar147.github.io/blog"
-url: "https://shravankumar147.github.io/blog"
+baseurl: "/blog"
+url: "https://shravankumar147.github.io/"
 
 allowsearch: true
 
